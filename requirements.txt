@@ -7,7 +7,7 @@ jmespath
 Levenshtein
 numpy==1.26.4
 openai
-Pillow==10.1.0
+Pillow==10.3.0
 protobuf==4.25.0
 PyMuPDF
 pytrec_eval==0.5
