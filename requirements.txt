@@ -14,4 +14,4 @@ pytrec_eval==0.5
 sentencepiece==0.1.99
 torch==2.1.2
 torchvision==0.16.2
-transformers==4.40.2
+transformers==4.50.0
